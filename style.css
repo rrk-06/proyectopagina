@@ -1,0 +1,22 @@
+.menu{
+    background-color: lightblue;
+}
+.insidemenu {
+    /*background-color: rgb(84, 155, 214);
+    border: 1px solid rgb(1, 56, 238);
+    font-size: 1rem;
+    text-align: center;
+    width: 100px;
+    height: 40px;
+    border-radius: 2px;*/
+    align-items: end;
+    background-color: lightblue;
+    display: inline-block;
+    height: 4vh;
+    /*flex-direction: row;*/
+    justify-content: flex-end;
+    align-items: stretch;
+    column-gap: 10px;
+    justify-content: space-evenly;
+    padding: 10px;
+}
